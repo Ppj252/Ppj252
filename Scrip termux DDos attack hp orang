@@ -1,0 +1,13 @@
+- $ apt update && apt upgrade
+- $ pkg install python2
+- $ pip2 install mechanize
+- $ pip2 install request
+- $ pkg install git
+- git clone https://github.com/R133F/Trojans
+- $ cd Trojans
+- $ python2 trojans.py
+
+<!---
+Ppj252/Ppj252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
